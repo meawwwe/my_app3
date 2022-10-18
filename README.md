@@ -1,2 +1,2 @@
-# Quiz app
- quiz app made with flutter
+# Personal expense tracker
+Personal expense tracker made with flutter
